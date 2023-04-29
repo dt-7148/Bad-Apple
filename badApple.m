@@ -31,10 +31,3 @@ for i = 1:x
         % do nothing  
     end
 end
-
-%{
-todo:
-find out how to speed up for loop
-currently running at ~15 fps, want that doubled
-find out how to speed up a for loop 
-%}
