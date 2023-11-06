@@ -1,6 +1,6 @@
 # Bad-Apple
 
-Implementations of the "Bad Apple!!" animation by あにら.
+Implementations of the "Bad Apple!!" animation by あにら. <br />
 Videos of the programs can be found [here](https://www.youtube.com/playlist?list=PLbco0ykGni-LagqcwjrX2pFtqmbMbyhiN)
 
 Note: Requires the frames of the original video, which are not provided in this repository.
