@@ -115,6 +115,7 @@ int main(void) {
 
 
         // usleep takes a time in microseconds, so the frame rate is multiplied by 1000 to compensate
+        // Delay is added to follow framerate
         usleep(TIME_FOR_1_FRAME * 1000);
     }
 
