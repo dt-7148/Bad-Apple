@@ -102,7 +102,8 @@ int main(void) {
         // This loop starts at the highest row since bmp data starts from the bottom left pixel and goes across and up to the top right pixel
         for (int i = 44; i >= 0; i--) {
             for (int j = 0; j < 60; j++) {
-                
+                // The output is printed twice since monospace font characters are taller than they are wide
+                // Printing the pixel twice helps alleviate the size discrepency
                 for (int l = 0; l < 2; l++) {
                     cout << image[i][j];
                 }
